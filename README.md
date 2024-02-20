@@ -1,10 +1,8 @@
 
 # 팀 프로젝트 git-hub 연동하기 
 
----
 ### 1.main 브랜치는 건들지 않는다! 아무도 !! 
 main 브랜치(check out)  => new branch --> commit 
-
 ---
 ### 2. 팀장은 오후 5시에 mian checkout 해서 marge from 다른 브런치(본인 + 팀원 서브 브런치 )
 ---
